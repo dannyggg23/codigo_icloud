@@ -1,0 +1,29 @@
+html * { z-index: 1; position:relative; }
+/* #bubbleContainer {
+	z-index:0;
+	overflow:hidden;
+	position:fixed;
+	height:100%;
+	width:100%;
+     
+} */
+/* #bubbleContainer div {
+        background: rgba(0,0,0,0.1);
+        background-color: rgba(0, 0, 0, 0.1);
+        background-image: none;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-size: auto auto;
+	position:fixed;
+	z-index:-1;
+	border-radius:2000px;
+        -webkit-filter: blur(3px);
+  -moz-filter: blur(3px);
+  -o-filter: blur(3px);
+  -ms-filter: blur(3px);
+  filter: blur(3px);
+} */

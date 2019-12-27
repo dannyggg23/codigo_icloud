@@ -1,0 +1,33 @@
+@charset "gbk";
+/* CSS Document */
+body,html,ul,li,p,h3,h4{margin:0px; padding:0px;}
+ul li{list-style:none;}
+.main_img{width:60%; margin:10px auto 50px auto;}
+.main_list{ border:1px solid #dedede; border-radius:8px; width: 95%; text-align:center;margin:10px auto 50px auto;}
+.main{width:80%; margin:0 auto;}
+.lok{ font-size:33px; text-align:center; margin:20px 0; font-family: sans-serif;}
+.main h4,.main h3{ font-size:14px; font-weight:normal; text-align:center;}
+.main h3{ font-family: sans-serif; margin:10px 0 5px 0; color:#dedede;}
+.main h4{font-size:12px; color:#c2c2c2;}
+.main_bord{ border-bottom:1px solid #dedede;}
+.main_bord1{ border-bottom:1px solid #deded;}
+.main_list li{padding:14px 5px 5px 6px;}
+.main_list li strong{float: left;display: block; text-align: left; font-weight: normal; font-size: 14px; font-family: sans-serif;  }
+.main_list li input{ border:none; padding:0px 0px 3px 2px;width:60%;}
+.main_col{
+color:#2DA63F;
+text-shadow: 0px 0px 0px #000;
+-webkit-text-fill-color: transparent;
+}
+.main_col::-webkit-input-placeholder{
+color:#ccc;
+text-shadow: none;
+-webkit-text-fill-color: initial;
+}
+.main_col::selection {
+background:2DA63F;
+}
+#buttom{ border: 0; font-family: sans-serif; font-size: 22px; color: gray; background-color:transparent; width:100%;margin:10px -10px 20px auto; margin-top:-30px; }
+.main_buuo{text-align:center;}
+input:focus{ outline: 0;}
+body {overflow:auto; -webkit-overflow-scrolling:touch}

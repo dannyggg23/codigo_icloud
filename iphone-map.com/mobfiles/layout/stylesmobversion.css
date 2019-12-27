@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+body {  
+  overflow: hidden;
+}
+
+#preloader {  
+  position: fixed;  
+  top: 0px;  
+  left: 0px;  
+  right: 0px;  
+  bottom: 0px;  
+  background-color: white;  
+  z-index: 9999;
+}
+
+#status {  
+  width: 200px;  
+  height: 200px;  
+  position: absolute;  
+  left: 50%;  
+  top: 50%;  
+  background-image: url("../img/ajax-loader.gif");  
+  background-repeat: no-repeat;  
+  background-position: center center;  
+  margin-top: -100px;  
+  margin-right: 0px;  
+  margin-bottom: 0px;  
+  margin-left: -100px;
+}
+
+#BG_1430132484751_46644 {  
+  visibility: hidden;
+}
+
+#BG_1430132551124_37945 {  
+  border-top-width: 0px;  
+  border-right-width: 0px;  
+  border-bottom-width: 0px;  
+  border-left-width: 0px;  
+  border-top-style: solid;  
+  border-right-style: solid;  
+  border-bottom-style: solid;  
+  border-left-style: solid;  
+  width: 96px;
+}
+

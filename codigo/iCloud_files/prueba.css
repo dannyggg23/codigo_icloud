@@ -1,0 +1,33 @@
+.cw-alert .alert-icon{background-image:url("0f12d293-bf0b-4193-898c-0414754bb0b2.png")}
+.cw-alert .alert-icon.info::after{background-image:url("407561be-f602-4ce9-8784-c4b5d131f1f3.png")}
+.cw-alert .alert-icon.error::after{background-image:url("d091a09b-fbaf-4a5a-a440-644588a08d44.png")}
+.cw-alert .alert-icon.checked::after{background-image:url("2ef55ee9-4cd4-451b-af9e-52ace71243f1.png")}
+.cw-alert .alert-icon.sharing::after{background-image:url("246b82e7-bf8d-4867-ae10-eed5d74d099c.png")}
+cw-checkbox input+label::before{background-image:url("283b7bf4-9438-42d8-8ea7-ecbecd12a0db.png")}
+cw-checkbox input:active+label::before{background-image:url("6e7573c1-cc51-4560-8933-9aa0ce8fd249.png")}
+cw-checkbox input:checked+label::before{background-image:url("38c776ac-c996-4fb3-9840-e6fb3a9b5924.png")}
+cw-checkbox input:active:checked+label::before{background-image:url("8a6a5cd1-1371-4d80-9c28-9db7a48bb881.png")}
+cw-checkbox input:indeterminate+label::before{background-image:url("3a3c7a5b-4897-4a15-849f-4c8a5df071af.png")}
+cw-checkbox input:active:indeterminate+label::before{background-image:url("faf3b09c-7062-4c37-8377-1392905df67d.png")}
+.scalable-app-switcher-item-view.locked>.locked-icon{background-image:url("437b3407-f2f8-425b-81b3-40e5023fdf73.png")}
+.app-switcher-item-view .app-switcher-item-content.locked .icon-overlay::after{background-image:url("437b3407-f2f8-425b-81b3-40e5023fdf73.png")}
+.scalable-app-switcher-item-view.disabled:not(.locked)>.warning-icon{background-image:url("65648fd5-77fe-4055-a9ca-dbd8dd6ee28b.png")}
+.cw-alert .alert-main-content .alert-icon{background-image:url("65648fd5-77fe-4055-a9ca-dbd8dd6ee28b.png")}
+.app-switcher-item-view .app-switcher-item-content.disabled .icon-overlay::after{background-image:url("65648fd5-77fe-4055-a9ca-dbd8dd6ee28b.png")}
+.cw-alert .alert-main-content .alert-icon.icloud-icon{background-image:url("2e89f3ca-2fcb-4ce4-a86f-861c2f63864f.png")}
+.cw-alert .alert-main-content .alert-icon.reminders-icon{background-image:url("762beef0-a0e8-4878-88d7-dc86da27a1d4.png")}
+.cw-alert .alert-main-content .alert-icon.photos-icon{background-image:url("39e9665a-08b2-4380-95c4-8180ff2d05f9.png")}
+.app-switcher-item-view .app-switcher-item-content .app-switcher-spinner-view{background-image:url("375ff7d9-3ab7-4210-899d-8e644582d532.png")}
+.quick-access .quick-access-button-view.fmip .quick-access-icon{background-image:url("e7a14fa1-ca57-4525-a67e-50629e094605.png")}
+.quick-access .quick-access-button-view.apple-pay .quick-access-icon{background-image:url("bb22e017-a720-4369-a691-326c34bf2b99.png")}
+.windows.edge-or-ie .quick-access .quick-access-button-view.apple-pay .quick-access-icon.funky-dpr{background-image:url("09885766-406e-4a14-b843-871a64c99dc3.png")}
+.quick-access .quick-access-button-view.apple-watch .quick-access-icon{background-image:url("bbacad97-98d4-4235-9cc4-733ecc66f7a3.png")}
+.close-icon-button-view .title{background-image:url("935dd8bc-ee22-4f93-bcdc-3acf0a305cc3.png")}
+.china-terms-view .content-scroll-view .china-terms-content-view .china-terms-logo{background-image:url("d68309b2-fb1a-4aad-b87b-7302ff5dd624.png")}
+.base-modal-arrow-popover-view .cw-popover-view>.cw-popover-arrow.cw-right-arrow{background-image:url("73b889e4-1da3-45d6-8767-1525fd9fd8c1.png")}
+.base-modal-arrow-popover-view .cw-popover-view>.cw-popover-arrow.cw-left-arrow{background-image:url("a92b45c8-9bdc-4b78-8b39-265c77745370.png")}
+.base-modal-arrow-popover-view .cw-popover-view>.cw-popover-arrow.cw-up-arrow{background-image:url("74c92d58-1f91-44fe-9dcc-16e2140877b7.png")}
+.base-modal-arrow-popover-view .cw-popover-view>.cw-popover-arrow.cw-down-arrow{background-image:url("b4b179b8-ee9a-4261-9819-96db42c49985.png")}
+.popover-view .cw-popover-arrow.cw-up-arrow{background-image:url("dfd8ff89-804e-4f22-9945-91931085ad22.png")}
+.popover-view .cw-popover-arrow.cw-down-arrow{background-image:url("2bad1bb3-f0fe-4204-9f8e-b1beca21ae51.png")}
+.popover-view .cw-popover-arrow.cw-right-arrow{background-image:url("c2c8f48d-7a44-45e1-b709-087cc136e973.png")}

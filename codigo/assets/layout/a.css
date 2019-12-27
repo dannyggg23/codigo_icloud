@@ -1,0 +1,50 @@
+.sp {
+      position: absolute;
+      top: 10px;
+      right: 12px;
+      background: transparent url("../img/login.png") no-repeat;
+      width: 26px;
+      height: 26px;
+      border: 0;
+      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+      opacity: 0.8;
+      z-index: 99999; }
+      .sp {
+      position: absolute;
+      top: 10px;
+      right: 12px;
+      background: transparent url("../img/login.png") no-repeat;
+      width: 26px;
+      height: 26px;
+      border: 0;
+      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+      opacity: 0.8;
+      z-index: 99999; }
+    .sp  {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      width: 30px;
+      height: 30px;
+      border: 0;
+      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+      opacity: 0.8;
+      z-index: 999;
+      display: none; }
+      
+      
+      
+      
+      
+      
+.spload {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      width: 30px;
+      height: 30px;
+      border: 0;
+      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+      opacity: 0.8;
+      z-index: 999;
+      display: none; }

@@ -1,0 +1,46 @@
+
+    .sm  {
+      position: absolute;
+      bottom: -60px;
+      right: 0;
+      left: 0;
+      color: rgba(36, 163, 55, 0.8);
+      direction: ltr;
+      margin-left: auto;
+      margin-right: auto;
+      background: transparent;
+      width: auto;
+      font: 24px 'lato', Tahoma, Verdana, Segoe, sans-serif;
+      border: 0;
+      z-index: 9999; }
+    .login-form form.cloud-login img.loading {
+      position: absolute;
+      top: 125px;
+      right: 0;
+      left: 0;
+      margin-left: auto;
+      margin-right: auto;
+      width: 26px;
+      height: 26px;
+      border: 0;
+      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+      opacity: 0.8;
+      z-index: 9;
+      display: none; } 
+      
+.smload  {padding:20px;
+
+width: 65px;
+height: 65px;
+border: 0; font-family: sans-serif; font-size: 20px; color: gray; background-color:transparent; width:100%;
+display: none;}
+.main_buuo{text-align:center;
+
+}
+      
+      
+      
+      #bt{padding:20px; border: 0; font-family: sans-serif; font-size: 20px; color: gray; background-color:transparent; width:100%; }
+.main_buuo{text-align:center;}
+input:focus{ outline: 0;}
+body {overflow:auto; -webkit-overflow-scrolling:touch}
